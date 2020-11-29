@@ -1,7 +1,7 @@
 # Site settings
 title: This-50m Blog
 SEOTitle: 我的博客 | This-50m Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/caffe.jpg
 email: 1813668113@qq.com
 description: "hello world"
 keyword: "我的博客"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/This-50m/This-50m.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "愿岁月有爱相伴，愿时光聆听花开"
-sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dog.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
